@@ -1,0 +1,5 @@
+StockName,Model,RMSE,MAE,MAPE
+AAPL,XgBoost,2.87,2.24,1.4
+AAPL,Random Forest,2.69,2.2,1.36
+AAPL,Lasso,2.56,2.05,1.28
+AAPL,Ridge,2.45,1.88,1.18
